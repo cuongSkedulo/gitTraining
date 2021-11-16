@@ -1,2 +1,2 @@
 # gitTraining
- git knowledge sharing
+cuongmai has edited here
